@@ -1,8 +1,6 @@
 <img width = 1200px src="https://github.com/wang-chenxi/CodingDojoAssignments/blob/master/0.Pre_Bootcamp/Presentation1.jpg"/>
 
-### Hi there 👋
-
-My home page:https://wang-chenxi.github.io/homepage/
+👋My home page:https://wang-chenxi.github.io/homepage/
 
 - 🔭 I’m currently working on full stack development
 - 🌱 I’m currently learning python
