@@ -1,4 +1,4 @@
-<img width = 1214px src="https://github.com/wang-chenxi/CodingDojoAssignments/blob/master/0.Pre_Bootcamp/Presentation1.jpg" "/>                                                                                                                       
+<img width = 1214px src="https://github.com/wang-chenxi/CodingDojoAssignments/blob/master/0.Pre_Bootcamp/Presentation1.jpg" />                                                                                                                       
                                                                                                                              
 👋My home page:https://wang-chenxi.github.io/homepage/
 
