@@ -1,5 +1,9 @@
-<a href="https://wang-chenxi.github.io/homepage/"><img width = 1214px src="https://github.com/wang-chenxi/CodingDojoAssignments/blob/master/0.Pre_Bootcamp/Presentation1.jpg" "/></a>
 
+[![banner][image]][hyperlink]                                                                                                                          
+[hyperlink]: https://wang-chenxi.github.io/homepage/
+[image]: https://github.com/wang-chenxi/CodingDojoAssignments/blob/master/0.Pre_Bootcamp/Presentation1.jpg (banner image)
+    or                                                                                                                             
+                                                                                                                             
 👋My home page:https://wang-chenxi.github.io/homepage/
 
 - 🔭 I’m currently working on full stack development
