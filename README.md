@@ -12,8 +12,8 @@
 - ⚡ Fun fact: ...
 
 My recent project with Li Yen and Ryne: Smart Styling
-<img src="/wang-chenxi/SmartStyling/raw/master/assets\preview-1.png" style="max-width:100%;">
-<img src="/wang-chenxi/SmartStyling/raw/master/assets\preview-2.png" style="max-width:100%;">
-<img src="/wang-chenxi/SmartStyling/raw/master/assets\preview-6.png" style="max-width:100%;">
+<img src="https://github.com/wang-chenxi/SmartStyling/raw/master/assets/preview-1.png" style="max-width:100%;">
+<img src="https://github.com/wang-chenxi/SmartStyling/raw/master/assets/preview-2.png" style="max-width:100%;">
+<img src="https://github.com/wang-chenxi/SmartStyling/raw/master/assets/preview-6.png" style="max-width:100%;">
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwang-chenxi&count_bg=%2398DC58&title_bg=%23FBE5D7&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/></a>
