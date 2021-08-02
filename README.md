@@ -1,6 +1,6 @@
 <a href="https://wang-chenxi.github.io/homepage/"><img width = 1214px src="https://github.com/wang-chenxi/CodingDojoAssignments/blob/master/0.Pre_Bootcamp/Presentation1.jpg" /> </a>                                                                                                                      
                                                                                                                              
-# 👋My home page:https://wang-chenxi.github.io/homepage/
+## 👋My home page:https://wang-chenxi.github.io/homepage/
 
 - 🔭 I’m currently working on full stack development
 - 🌱 I’m currently learning python
@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# Recent project: Smart Styling
+## Recent project: Smart Styling
 <img src="https://github.com/wang-chenxi/SmartStyling/raw/master/assets/preview-2.png" style="max-width:100%;">
 Smart Styling will help you to put together outfits with items in your personal closet. Simply register, let us know what your preferred style is, and upload pieces from your closet in order to receive outfit recommendations.
 <br/><br/>
