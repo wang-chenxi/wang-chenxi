@@ -12,7 +12,8 @@
 - ⚡ Fun fact: ...
 
 ## Recent project: Smart Styling
-https://user-images.githubusercontent.com/56898616/127814605-8df4427c-7eb7-4016-94db-afe0f2a75643.mov
+https://user-images.githubusercontent.com/56898616/127814835-56a54d15-9ef3-4d84-b80c-b77ab616ff3e.mov
+
 Smart Styling will help you to put together outfits with items in your personal closet. Simply register, let us know what your preferred style is, and upload pieces from your closet in order to receive outfit recommendations.
 
 <br/><br/>
