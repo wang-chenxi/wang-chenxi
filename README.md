@@ -13,7 +13,6 @@
 
 # Recent project: Smart Styling
 <img src="https://github.com/wang-chenxi/SmartStyling/raw/master/assets/preview-2.png" style="max-width:100%;">
-Check out my recent project Smart Styling with Li Yen Ng and Ryne Rountree . Smart Styling will help you to put together outfits with items in your personal closet. Simply register, let us know what your preferred style is, and upload pieces from your closet in order to receive outfit recommendations.
-
-<br>
+Smart Styling will help you to put together outfits with items in your personal closet. Simply register, let us know what your preferred style is, and upload pieces from your closet in order to receive outfit recommendations.
+<br/><br/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwang-chenxi&count_bg=%2398DC58&title_bg=%23FBE5D7&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/></a>
