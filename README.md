@@ -16,5 +16,10 @@ https://user-images.githubusercontent.com/56898616/127814835-56a54d15-9ef3-4d84-
 
 Smart Styling will help you to put together outfits with items in your personal closet. Simply register, let us know what your preferred style is, and upload pieces from your closet in order to receive outfit recommendations.
 
+## Always add some fun to my practice assignments... :)
+https://user-images.githubusercontent.com/56898616/129318343-814c0990-3f12-4ba3-9f96-0f19c165d17b.mp4
+
+It's a typical practice assignment for Java Spring project. I did extra work to improve user experience and to provide better working flow.
+
 <br/><br/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwang-chenxi&count_bg=%2398DC58&title_bg=%23FBE5D7&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/></a>
