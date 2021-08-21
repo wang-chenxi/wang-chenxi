@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Believe it or it, I am a Hip-Hop dancer and I have visited 40+ countries!             
 
 [![Chenxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wang-chenxi&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wang-chenxi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Chenxi's github activity graph](https://activity-graph.herokuapp.com/graph?username=wang-chenxi)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Recent project: Smart Styling
