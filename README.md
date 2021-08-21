@@ -24,4 +24,3 @@ It's a typical practice assignment addressing Java Spring & JPA. I did extra wor
 <br/><br/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwang-chenxi&count_bg=%2398DC58&title_bg=%23FBE5D7&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/></a>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="chenxi-wang-us" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/chenxi-wang-us?trk=profile-badge">Chenxi Wang</a></div>
