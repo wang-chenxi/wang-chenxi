@@ -24,5 +24,6 @@ https://user-images.githubusercontent.com/56898616/129318343-814c0990-3f12-4ba3-
 It's a typical practice assignment addressing Java Spring & JPA. I did extra work to improve user experience and to provide better working flow.
 
 <br/><br/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwang-chenxi&count_bg=%2398DC58&title_bg=%23FBE5D7&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false&hide=stars"/></a>
+[![Chenxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wang-chenxi&hide=stars&count_private=true&show_icons=true&theme=flag-india)]
+
 
