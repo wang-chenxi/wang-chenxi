@@ -3,13 +3,10 @@
 ## 👋My home page:https://wang-chenxi.github.io/homepage/            
 
 - 🔭 I’m currently working on full stack development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on interesting projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...             
+- 🤔 I’m looking for help with finding interesting projects!!!
+- ⚡ Fun fact: Believe it or it, I am a Hip-Hop dancer and I have visited 40+ countries!             
 
 [![Chenxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wang-chenxi&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
