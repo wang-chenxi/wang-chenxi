@@ -11,8 +11,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="chenxi-wang-us" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/chenxi-wang-us?trk=profile-badge">Chenxi Wang</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">alert</script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="chenxi-wang-us" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/chenxi-wang-us?trk=profile-badge">Chenxi Wang</a></div>
+              
               
 
 ## Recent project: Smart Styling
