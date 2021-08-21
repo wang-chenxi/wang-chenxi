@@ -27,5 +27,5 @@ It's a typical practice assignment addressing Java Spring & JPA. I did extra wor
 
 <br/><br/>
 
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwang-chenxi&count_bg=%2398DC58&title_bg=%23FBE5D7&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/></a>
 
