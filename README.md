@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on full stack development
 - 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on interesting projects
-- ⚡ Fun fact: Believe it or it, I am a Hip-Hop dancer and I have visited 40+ countries!             
+- ⚡ Fun fact: Believe it or not, I am a Hip-Hop dancer and I have visited 40+ countries!             
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
