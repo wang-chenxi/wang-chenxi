@@ -42,10 +42,14 @@ https://user-images.githubusercontent.com/56898616/127814835-56a54d15-9ef3-4d84-
 
 Smart Styling will help you to put together outfits with items in your personal closet. Simply register, let us know what your preferred style is, and upload pieces from your closet in order to receive outfit recommendations.
 
-## Always add some fun to my practice assignments... :)
-https://user-images.githubusercontent.com/56898616/129318343-814c0990-3f12-4ba3-9f96-0f19c165d17b.mp4
+## Recent project: Super Kary
+<img src="https://github.com/wang-chenxi/super-kary/blob/master/assets/introduction.jpg">
 
-It's a typical practice assignment addressing Java Spring & JPA. I did extra work to improve user experience and to provide better working flow.
+* Kary is a super cute baby. His favorite things are a bottle of milk and a cute teddy bear buddy. He hates cactus and he doesn't like falling down. Kary needs to tackle the challenges to play with his favorite teddy bear. Now let’s begin the adventure!
+
+* This is an indie game project utilizing <a href="https://github.com/photonstorm/phaser">Phaser 3</a>, a js based game framework.
+
+## <a href="https://wang-chenxi.github.io/super-kary/">Start the adventure with Kary now!</a>
 
 <br/><br/>
 
