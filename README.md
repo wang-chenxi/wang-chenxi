@@ -49,7 +49,7 @@ Smart Styling will help you to put together outfits with items in your personal 
 
 * This is an indie game project utilizing <a href="https://github.com/photonstorm/phaser">Phaser 3</a>, a js based game framework.
 
-## <a href="https://wang-chenxi.github.io/super-kary/">Start the adventure with Kary now!</a>
+<h2> <a href="https://wang-chenxi.github.io/super-kary/">Start the adventure with Kary now!</a></h2>
 
 <br/><br/>
 
