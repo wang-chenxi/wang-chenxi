@@ -45,9 +45,9 @@ Smart Styling will help you to put together outfits with items in your personal 
 ## Recent project: Super Kary
 <img src="https://github.com/wang-chenxi/super-kary/blob/master/assets/introduction.jpg">
 
-* Kary is a super cute baby. His favorite things are a bottle of milk and a cute teddy bear buddy. He hates cactus and he doesn't like falling down. Kary needs to tackle the challenges to play with his favorite teddy bear. Now let’s begin the adventure!
+* Super Kary is an indie game project utilizing <a href="https://github.com/photonstorm/phaser">Phaser 3</a>, a js based game framework.
 
-* This is an indie game project utilizing <a href="https://github.com/photonstorm/phaser">Phaser 3</a>, a js based game framework.
+* Kary is a super cute baby. His favorite things are a bottle of milk and a cute teddy bear buddy. He hates cactus and he doesn't like falling down. Kary needs to tackle the challenges to play with his favorite teddy bear. Now let’s begin the adventure!
 
 <h2> <a href="https://wang-chenxi.github.io/super-kary/">Start the adventure with Kary now!</a></h2>
 
