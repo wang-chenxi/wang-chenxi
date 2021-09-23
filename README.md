@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on full stack development
 - 🌱 I’m currently learning MERN
-- 👯 I’m looking to collaborate on interesting projects
+- 👯 I’m looking to collaborating on interesting projects
 - ⚡ Fun fact: Believe it or not, I am a Hip-Hop dancer and I have visited 40+ countries!             
 
 ### Programming Languages
