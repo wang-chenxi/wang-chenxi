@@ -3,7 +3,7 @@
 ## 👋My home page:https://wang-chenxi.github.io/homepage/            
 
 - 🔭 I’m currently working on full stack development
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently practicing algos, and I am doing daily LeetCode challenge! => https://github.com/wang-chenxi/LeetCode
 - 👯 I’m looking to collaborating on interesting projects
 - ⚡ Fun fact: Believe it or not, I am a Hip-Hop dancer and I have visited 40+ countries!             
 
