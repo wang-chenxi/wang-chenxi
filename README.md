@@ -39,6 +39,11 @@
 [![Chenxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wang-chenxi&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wang-chenxi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Recent project: Lil Cake
+https://user-images.githubusercontent.com/56898616/138825989-93fdab52-8949-4d4c-9006-5368edfe6d4d.mov
+
+An e-commerce site for cake selling and buying, which provides a platform for independent cake makers and customers who are seeking unique sweet pieces.
+
 ## Recent project: Smart Styling
 https://user-images.githubusercontent.com/56898616/127814835-56a54d15-9ef3-4d84-b80c-b77ab616ff3e.mov
 
