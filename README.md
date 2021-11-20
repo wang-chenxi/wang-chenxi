@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on full stack development
 - 🌱 I’m currently practicing algos, and I am doing daily LeetCode challenge! => https://github.com/wang-chenxi/LeetCode
 - 👯 I’m looking to collaborating on interesting projects
-- ⚡ Fun fact: Believe it or not, I am a Hip-Hop dancer and I have visited 40+ countries!             
+- ⚡ Fun fact: I am a Hip-Hop dancer and I have visited 40+ countries! Also, I am a proud mother of two!             
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
